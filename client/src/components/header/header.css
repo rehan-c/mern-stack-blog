@@ -1,0 +1,33 @@
+.header{
+    margin-top: 2vh;
+}
+
+.headerTitles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #444;
+}
+
+.headerTitleSm{
+
+    top: 6%;
+    font-size: 20px;
+    z-index: -1;
+}
+
+.headerTitleLg{
+    display: none;
+    position: absolute;
+    top: 9%;
+    font-size: 80px;
+    z-index: -1;
+}
+
+.headerImg{
+    width: 100%;
+    height: 450px;
+    margin-top: 80px;
+    object-fit: cover;
+}
