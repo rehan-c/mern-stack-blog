@@ -2,7 +2,7 @@
 A full stack, responsive blog site which allows users to view and post their articles.<br />
 Built on the MERN stack, including MongoDB, Express.js, React.js & Node.js.
 
-#Installation instructions
+# Installation instructions
 This project requires Node.js + npm to be installed.<br />
 Clone or download this repository.<br />
 Launch two terminals<br />
